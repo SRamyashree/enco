@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     441521736550481921       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "eMini 4-bit Encryption/Decryption Logic (XOR Stream Cipher)"      # Project title
+  title:        "Mini 4-bit Encryption/Decryption Logic (XOR Stream Cipher)"      # Project title
   author:       "ramyashree"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "This project implements a 4-bit XOR-based encryption/decryption logic block using barrel shifter for TinyTapeout with Wokwi simulation support."      # One line description of what your project does
